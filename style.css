@@ -4,8 +4,9 @@ h2, p{
 .h4{
     padding: 50px 0px;
 }
-.carousel-bg{
-    background-color: rgb(206, 224, 247);
+.carousel-indicators li{
+    background-color: goldenrod;
+    height: 5px;
 }
 .card-footer{
     background-color: #fff;
@@ -18,4 +19,49 @@ h2, p{
 }
 .img-padding{
     padding: 40px;
+}
+.extra-padding{
+    padding: 50px 0px 20px;
+}
+.gold-color{
+    text-decoration: none;
+    color: goldenrod;
+}
+.Categories{
+    margin: 100px;
+    text-align: center;
+}
+.Categories-row{
+    margin-bottom: 100px;
+}
+.bag{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 0px 10px 0px 20px;
+    box-shadow: 1px 1px 10px rgb(211, 209, 209);
+    text-align: center;
+}
+.beauty{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px 0px 20px 0px;
+    box-shadow: 1px 1px 10px rgb(211, 209, 209);
+    text-align: center;
+}
+.shoe{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px 0px 20px 0px;
+    box-shadow: 1px 1px 10px rgb(211, 209, 209); 
+    margin-top: 40px;
+    text-align: center;
+}
+.bag h5{;
+    padding-top: 20px;
+}
+.beauty h5{
+    padding-top: 20px;
+}
+.shoe h5{
+    padding-top: 20px;
 }
