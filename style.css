@@ -16,3 +16,6 @@ h2, p{
     box-shadow: 1px 1px 20px rgb(224, 222, 222);
     border-radius: 30px;
 }
+.img-padding{
+    padding: 40px;
+}
