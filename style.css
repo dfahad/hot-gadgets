@@ -6,7 +6,7 @@ h2, p{
 }
 .carousel-indicators li{
     background-color: goldenrod;
-    height: 5px;
+    height: 10px;
 }
 .card-footer{
     background-color: #fff;
@@ -36,7 +36,7 @@ h2, p{
 }
 .bag{
     background-color: rgb(255, 255, 255);
-    padding: 20px;
+    padding: 20px 40px;
     border-radius: 0px 10px 0px 20px;
     box-shadow: 1px 1px 10px rgb(211, 209, 209);
     text-align: center;
