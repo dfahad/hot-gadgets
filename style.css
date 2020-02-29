@@ -1,0 +1,18 @@
+h2, p{
+    color: #000;
+}
+.h4{
+    padding: 50px 0px;
+}
+.carousel-bg{
+    background-color: rgb(12, 109, 236);
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+.card{
+    border: none;
+    box-shadow: 1px 1px 20px rgb(224, 222, 222);
+    border-radius: 30px;
+}
